@@ -1,12 +1,12 @@
 <template>
   <div>
-    <headVue />
-    <bodyVue />
+    <ChartHead />
+    <ChartBody />
   </div>
 </template>
 
 <script setup>
-import headVue from './components/head.vue'
-import bodyVue from './components/body.vue';
+import ChartHead from './components/ChartHead.vue'
+import ChartBody from './components/ChartBody.vue';
 
 </script>
