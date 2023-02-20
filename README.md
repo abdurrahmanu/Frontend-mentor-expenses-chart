@@ -1,4 +1,4 @@
-# typing
+# Frontend mentor intermediate project challenge
 
 ## Project setup
 ```
